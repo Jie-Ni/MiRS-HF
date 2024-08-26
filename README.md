@@ -6,3 +6,5 @@ scipy == 1.1.0
 tensorflow == 1.12.0
 pytorch == 1.4.0
 pandas == 1.1.5
+
+Any problem, please contact us via njie@seu.edu.cn
